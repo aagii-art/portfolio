@@ -1,0 +1,49 @@
+.profile {
+    color: white;
+    height: 750px;
+    display: flex;
+    padding: 40px;
+    border-bottom: 2px solid red;
+    background-color: #0a0a0a;
+}
+
+.text {
+    width: 50%;
+    height: 100%;
+    padding: 40px;
+    padding-top: 0px;
+}
+
+.text > div {
+    height: 100%;
+    padding: 100px 0px;
+}
+
+.texts {
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0px 0px 40px;
+}
+
+.header {
+    font-size: 101px;
+    width: 544px;
+}
+
+.link {
+    display: flex;
+    gap: 10px;
+}
+
+.zurag {
+    width: 50%;
+    height: 100%;
+    padding: 0px 50px;
+
+}
+
+.zurag > img {
+    width: 100%;
+    height: 100%;
+}
+
