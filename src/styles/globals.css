@@ -4,10 +4,14 @@
   margin: 0;
 }
 
+:root {
+  --backroundcolor: white;
+}
+
 body {
   display: flex;
   justify-content: center;
-  background-color: white;
+  background-color: var(--backroundcolor);
 }
 
 .home {

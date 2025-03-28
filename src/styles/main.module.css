@@ -1,0 +1,22 @@
+.main {
+  padding: 80px;
+  color: white;
+}
+
+.mainHeader {
+  padding: 60px 0px 0px;
+}
+
+.mainHeaderiinHeader {
+  color: white;
+  font-size: 76px;
+  line-height: 100%;
+}
+
+.mainHeaderiinP {
+  color: #c7c7c7;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  width: 500px;
+}
